@@ -3,6 +3,7 @@
 1. This is a simple work towrd building footprint segmentaion
 
 2. To quickly reproduce this work please:
+
   (1) down load data from https://drive.google.com/file/d/1dfLVqBVuvTWYd6MuImjxnPbeuf3Yvh4k/view?usp=sharing and substitute
   data folder with the one you download.
   
